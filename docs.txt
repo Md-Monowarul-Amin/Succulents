@@ -1,0 +1,28 @@
+For Custom User:
+https://www.youtube.com/watch?v=GdfLXHhNABE
+https://github.com/CodeEnvironment/django-rest-framework-code/blob/master/userapp/models.py
+https://testdriven.io/blog/django-custom-user-model/
+
+Custom User Model:
+https://dev.to/earthcomfy/getting-started-custom-user-model-5hc
+https://blog.logrocket.com/django-rest-framework-create-api/
+
+Checking Object Type:
+https://stackoverflow.com/questions/3438003/django-model-inheritance-and-type-check
+
+Permissions:
+https://github.com/veryacademy/YT-Django-DRF-Simple-Blog-Series-JWT-Part-3/blob/master/django/blog_api/views.py
+
+
+
+A SHOP APP FROM github:
+https://github.com/codingforentrepreneurs/Django-Rest-Framework-Tutorial/tree/2ee606fb8b6053134d686a4b0dffe1374d778c7c
+
+
+
+## For Enums:
+https://medium.com/@bencleary/using-enums-as-django-model-choices-96c4cbb78b2e
+
+
+## For Generic Class View:
+https://testdriven.io/blog/drf-views-part-2/
